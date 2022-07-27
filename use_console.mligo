@@ -1,7 +1,7 @@
 #import "console.mligo" "Console"
 #import "utf8.mligo" "Utf8"
 
-let taest =
+let test_colours =
   let () = Console.set_yellow () in
   let () = Console.set_background_red () in
   let () = Test.print "Mate: " in
