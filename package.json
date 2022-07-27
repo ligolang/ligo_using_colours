@@ -1,0 +1,27 @@
+{
+  "name": "using_colours",
+  "version": "1.0.0",
+  "description": "exemple printing coloured text / emoji",
+  "main": "index.js",
+  "scripts": {
+    "test": "ligo run test use_console.mligo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lesenr1/ligo_using_colours.git"
+  },
+  "keywords": [
+    "colours",
+    "ligo",
+    "unicode"
+  ],
+  "author": "LIGO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lesenr1/ligo_using_colours/issues"
+  },
+  "homepage": "https://github.com/Lesenr1/ligo_using_colours#readme",
+  "dependencies": {
+    "my-package": "0.0.0"
+  }
+}
