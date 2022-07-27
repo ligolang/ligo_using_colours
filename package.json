@@ -1,6 +1,6 @@
 {
   "name": "using_colours",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "exemple printing coloured text / emoji",
   "main": "index.js",
   "scripts": {
