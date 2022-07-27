@@ -1,6 +1,6 @@
 # Using colours in ligo
 
-To install this package using
+To install this package using ligo
 
 ```bash
 echo '{}' > package.json
