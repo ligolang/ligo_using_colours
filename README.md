@@ -7,7 +7,7 @@ echo '{}' > package.json
 ligo install using colours
 ```
 
-runing a test file with ligo
+runing a test file (`use_console.mligo`) with ligo
 
 ```cameligo
 #import "using_colours/console.mligo" "Console"
@@ -25,3 +25,4 @@ let test_colours =
   let () = Console.colour_reset () in
   ()
 ```
+![image](https://user-images.githubusercontent.com/13545864/181238120-3019048b-5919-4dbc-bd75-9d6722b458d8.png)
